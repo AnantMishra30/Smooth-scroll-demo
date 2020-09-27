@@ -1,0 +1,18 @@
+p{
+	text-align:justify;
+	margin:25px 75px 75px 75px;
+	line-height:25px;
+}
+#slider{
+	height:450px;
+	width:50%;
+	background-color:#930;
+	float:left;
+	position:relative;
+}
+
+#slider img{
+	height:450px;
+	width:100%;
+	position:absolute;
+}

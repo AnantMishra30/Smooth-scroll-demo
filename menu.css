@@ -1,0 +1,27 @@
+#nav{
+	height:100px;
+	width:30%;
+	top:0px;
+	right:60px;
+	float:right;
+}
+
+#menu{
+	list-style-type:none;
+	margin:30px 25px 30px 25px;
+}
+
+#menu li{
+	float:left;
+	padding:10px;
+	font-family: Arial, sans-serif;
+	color:#965061;
+}
+
+#menu li:hover{
+	background-color:#33373c;
+	color:#e8f9f2;
+	border-bottom-style:solid;
+	border-bottom-width:4px;
+	border-bottom-color:#f24971;
+}
